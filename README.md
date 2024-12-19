@@ -3,18 +3,7 @@
 <h2>Here are some of my IT Projects:</h2>
 
 - <b>osTicket</b>
-  - a
-  - b
-  - c
 - <b>Microsoft Azure</b>
-  - a
-  - b
-  - c
 - <b>DNS</b>
-  - a
-  - b
-  - c
 - <b>Active Directory</b>
-  - a
-  - b
-  - c
+- <b>Cisco Packet Tracer</b>
