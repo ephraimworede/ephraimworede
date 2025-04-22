@@ -2,6 +2,7 @@
 
 <h2>Here are some of my IT Projects:</h2>
 
+- <b>Web Server</b>
 - <b>osTicket</b>
 - <b>Microsoft Azure</b>
 - <b>DNS</b>
